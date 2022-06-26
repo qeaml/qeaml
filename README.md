@@ -15,12 +15,13 @@ And some other things that don't really matter.
 
 I've tried most of the fields of programming:
 
-* Websites (private repo so can't link)
-* Games (also private)
-* [Discord bots](autobot)
-* [Libraries](all)
-* [Programming Languages](skol)
-* [Language VMs](skvm)
+* Websites (see my `fib` repository)
+* Games (see `aeon`)
+* Discord bots (see `autobot`)
+* Libraries (see `all`)
+* Minecraft Mods (see `mmic`)
+* Programming Languages (see `syzkrash/skol`)
+* Language VMs (see `syzkrash/skvm`)
 
 And probably other things as well.
 
