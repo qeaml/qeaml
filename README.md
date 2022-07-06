@@ -25,11 +25,6 @@ I've tried most of the fields of programming:
 
 And probably other things as well.
 
-## The music
-
-I mainly produce [Uptempo Hardcore][tdh], a rather underground genere of music.
-I produce other generes on my secondary SoundCloud and YouTube.
-
 ## Metrics
 [![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
