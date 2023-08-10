@@ -2,13 +2,17 @@
 
 ## Main Projects
 
-* [skol][skol] programming language
-* [qcbs][qcbs] C/C++ build system
-* [mmic][mmic] Minecraft mod
+* [nwge][nwge] game "engine"
+* [bip][bip] C/C++ build system
+
+## One-Off Projects
+
+* [ddd][ddd] utility program
 
 ## Metrics
 [![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
-[skol]: https://github.com/syzkrash/skol
-[qcbs]: https://github.com/qeaml/bs
-[mmic]: https://github.com/qeaml/mmic
+[nwge]: https://github.com/qeaml/nwge-docs
+[bip]: https://github.com/qeaml/bip
+
+[ddd]: https://github.com/qeaml/ddd
