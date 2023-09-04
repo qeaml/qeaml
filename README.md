@@ -21,4 +21,4 @@ Stuff I make may or may not be available to install via [my Scoop bucket][bkt].
 
 [ddd]: https://github.com/qeaml/ddd
 
-[bkt]: https://github.com/qeaml/bucket
+[bkt]: https://github.com/qeaml/scoop
