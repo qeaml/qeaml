@@ -9,6 +9,10 @@
 
 * [ddd][ddd] utility program
 
+## The Scoop Bucket
+
+Stuff I make may or may not be available to install via [my Scoop bucket][bkt].
+
 ## Metrics
 [![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
@@ -16,3 +20,5 @@
 [bip]: https://github.com/qeaml/bip
 
 [ddd]: https://github.com/qeaml/ddd
+
+[bkt]: https://github.com/qeaml/bucket
