@@ -1,12 +1,9 @@
 # qeaml
 
-## Main Projects
+## Projects
 
-* [nwge][nwge] game "engine"
+* nwge engine
 * [bip][bip] C/C++ build system
-
-## One-Off Projects
-
 * [ddd][ddd] utility program
 * [FFDef][ffdef] file format definition and automatic generation of reader & writer code
 
