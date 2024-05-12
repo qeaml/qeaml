@@ -4,6 +4,7 @@
 
 * nwge engine
   * [Shitting Bricks Simulator 2024][sbs2024]
+  * [Minesweeper]
 * [bip] C/C++ build system
 * [ddd] utility program
 
@@ -12,5 +13,6 @@
 
 [nwge]: https://github.com/qeaml/nwge-docs
 [sbs2024]: https://github.com/qeaml/sbs2024
+[Minesweeper]: https://github.com/qeaml/minesweeper
 [bip]: https://github.com/qeaml/bip
 [ddd]: https://github.com/qeaml/ddd
