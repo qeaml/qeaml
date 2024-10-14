@@ -4,7 +4,7 @@
 
 * nwge engine
   * [Shitting Bricks Simulator 2024][sbs2024]
-  * [Calculator][nwge-calculatpr]
+  * [Calculator][nwge-calculator]
 * [bip] C/C++ build system
 * [ddd] utility program
 
