@@ -2,9 +2,7 @@
 
 ## Projects
 
-* nwge engine
-  * [Shitting Bricks Simulator 2024][sbs2024]
-  * [Calculator][nwge-calculator]
+* [nwge] engine, see [nwge game studio][nwge-games]
 * [bip] C/C++ build system
 * [ddd] utility program
 
@@ -12,7 +10,7 @@
 [![Metrics](/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 [nwge]: https://github.com/qeaml/nwge-docs
-[sbs2024]: https://github.com/qeaml/sbs2024
-[nwge-calculator]: https://github.com/qeaml/nwge-calculator
-[bip]: https://github.com/qeaml/bip
+[nwge-games]: https://github.com/nwge-games
+[nwge]: https://qeaml.github.io/projects/nwge
+[bip]: https://codeberg.org/q/bip
 [ddd]: https://github.com/qeaml/ddd
